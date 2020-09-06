@@ -1,0 +1,217 @@
+https://2020.pycon.org.au/program/sun/
+ID   | Char | CharCount | URL
+0    | 'Y'  | 467       | https://en.wikipedia.org/wiki/Julia_(programming_language) 
+1    | 'o'  | 2967      | https://en.wikipedia.org/wiki/Java_(programming_language) 
+2    | 'u'  | 85        | https://en.wikipedia.org/wiki/Category:Concurrent_programming_languages 
+3    | 'r'  | 234       | https://en.wikipedia.org/wiki/Category:Procedural_programming_languages 
+4    | ' '  | 109       | https://en.wikipedia.org/wiki/Category:Extensible_syntax_programming_languages 
+5    | 'P'  | 23        | https://en.wikipedia.org/wiki/LINGO_(mathematical_modeling_language) 
+6    | 'r'  | 193       | https://en.wikipedia.org/wiki/Jolie_(programming_language) 
+7    | 'o'  | 404       | https://en.wikipedia.org/wiki/Elixir_(programming_language) 
+8    | 'g'  | 8         | https://en.wikipedia.org/wiki/Category:Process_termination_functions 
+9    | 'r'  | 87        | https://en.wikipedia.org/wiki/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA 
+10   | 'a'  | 142       | https://en.wikipedia.org/wiki/Category:Academic_programming_languages 
+11   | 'm'  | 294       | https://en.wikipedia.org/wiki/Mesa_(programming_language)#Cedar 
+12   | ' '  | 208       | https://en.wikipedia.org/wiki/Behavioral_Description_Language 
+13   | 'm'  | 968       | https://en.wikipedia.org/wiki/AppleScript 
+14   | 'u'  | 90        | https://en.wikipedia.org/wiki/Jolie_(programming_language) 
+15   | 's'  | 48        | https://en.wikipedia.org/wiki/Category:Object-based_programming_languages 
+16   | 't'  | 24        | https://en.wikipedia.org/wiki/Category:Low-level_programming_languages 
+
+------
+
+ID   | Char | CharCount | URL
+0    | 'P'  | 370       | https://en.wikipedia.org/wiki/PureBasic 
+1    | 'r'  | 2173      | https://en.wikipedia.org/wiki/Julia_(programming_language) 
+2    | 'i'  | 118       | https://en.wikipedia.org/wiki/Category:Dynamically_typed_programming_languages 
+3    | 'n'  | 105       | https://en.wikipedia.org/wiki/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA 
+4    | 't'  | 103       | https://en.wikipedia.org/wiki/Address_programming_language 
+5    | ' '  | 82        | https://en.wikipedia.org/wiki/Category:Prototype-based_programming_languages 
+6    | '"'  | 20        | https://en.wikipedia.org/wiki/Qore_(programming_language) 
+7    | 'H'  | 10        | https://en.wikipedia.org/wiki/Category:Dependently_typed_languages 
+8    | 'e'  | 63        | https://en.wikipedia.org/wiki/Category:Dependently_typed_languages 
+9    | 'l'  | 991       | https://en.wikipedia.org/wiki/Smart_Pascal 
+10   | 'l'  | 2147      | https://en.wikipedia.org/wiki/Programming_language 
+11   | 'o'  | 95        | https://en.wikipedia.org/wiki/GLOBAL 
+12   | ' '  | 83        | https://en.wikipedia.org/wiki/Category:Programming_languages_conferences 
+13   | 'w'  | 4         | https://en.wikipedia.org/wiki/Category:Secure_programming_languages 
+14   | 'o'  | 143       | https://en.wikipedia.org/wiki/Programming_Languages:_Application_and_Interpretation 
+15   | 'r'  | 785       | https://en.wikipedia.org/wiki/Visual_FoxPro 
+16   | 'l'  | 191       | https://en.wikipedia.org/wiki/Zig_(programming_language) 
+17   | 'd'  | 9         | https://en.wikipedia.org/wiki/Category:Agent-oriented_programming_languages 
+18   | '!'  | 0         | https://en.wikipedia.org/wiki/EXAPT 
+19   | '"'  | 4         | https://en.wikipedia.org/wiki/Category:Term-rewriting_programming_languages 
+
+------
+
+ID   | Char | CharCount | URL
+0    | 'i'  | 22        | https://en.wikipedia.org/wiki/Category:Low-level_programming_languages 
+1    | 'm'  | 73        | https://en.wikipedia.org/wiki/Real-time_Programming_Language 
+2    | 'p'  | 160       | https://en.wikipedia.org/wiki/GEORGE_(programming_language) 
+3    | 'o'  | 72        | https://en.wikipedia.org/wiki/Category:Programming_languages_conferences 
+4    | 'r'  | 110       | https://en.wikipedia.org/wiki/Address_programming_language 
+5    | 't'  | 24        | https://en.wikipedia.org/wiki/Category:Low-level_programming_languages 
+6    | ' '  | 166       | https://en.wikipedia.org/wiki/Scientific_Vector_Language 
+7    | 'a'  | 169       | https://en.wikipedia.org/wiki/Auto-lead_Data_Format 
+8    | 'n'  | 54        | https://en.wikipedia.org/wiki/Category:Experimental_programming_languages 
+9    | 'd'  | 18        | https://en.wikipedia.org/wiki/Category:Multi-paradigm_programming_languages 
+10   | ' '  | 68        | https://en.wikipedia.org/wiki/Category:Dependently_typed_languages 
+11   | 'u'  | 28        | https://en.wikipedia.org/wiki/Embedded_style_language 
+12   | 's'  | 106       | https://en.wikipedia.org/wiki/GLOBAL 
+13   | 'e'  | 137       | https://en.wikipedia.org/wiki/FX-87 
+14   | ' '  | 37        | https://en.wikipedia.org/wiki/Category:Reactive_programming_languages 
+15   | 't'  | 1674      | https://en.wikipedia.org/wiki/Kotlin_(programming_language) 
+16   | 'h'  | 140       | https://en.wikipedia.org/wiki/Gosling_Emacs#Extension_language 
+17   | 'e'  | 93        | https://en.wikipedia.org/wiki/LINGO_(mathematical_modeling_language) 
+18   | ' '  | 10424     | https://en.wikipedia.org/wiki/PHP 
+19   | 'B'  | 48        | https://en.wikipedia.org/wiki/Tritium_(programming_language) 
+20   | 'e'  | 64        | https://en.wikipedia.org/wiki/Category:Software_by_programming_language 
+21   | 'a'  | 527       | https://en.wikipedia.org/wiki/B_(programming_language) 
+22   | 'u'  | 53        | https://en.wikipedia.org/wiki/Flowcode 
+23   | 't'  | 81        | https://en.wikipedia.org/wiki/Category:Declarative_programming_languages 
+24   | 'i'  | 590       | https://en.wikipedia.org/wiki/EXAPT 
+25   | 'f'  | 99        | https://en.wikipedia.org/wiki/F_(programming_language) 
+26   | 'u'  | 1009      | https://en.wikipedia.org/wiki/Java_(programming_language) 
+27   | 'l'  | 300       | https://en.wikipedia.org/wiki/POP-2 
+28   | ' '  | 208       | https://en.wikipedia.org/wiki/COWSEL 
+29   | 'S'  | 983       | https://en.wikipedia.org/wiki/Haxe 
+30   | 'o'  | 33        | https://en.wikipedia.org/wiki/Category:Synchronous_programming_languages 
+31   | 'u'  | 46        | https://en.wikipedia.org/wiki/Category:Visual_programming_languages 
+32   | 'p'  | 31        | https://en.wikipedia.org/wiki/Category:Dependently_typed_languages 
+33   | ' '  | 728       | https://en.wikipedia.org/wiki/DataFlex 
+34   | 'l'  | 197       | https://en.wikipedia.org/wiki/Deductive_language 
+35   | 'i'  | 2330      | https://en.wikipedia.org/wiki/Swift_(programming_language) 
+36   | 'b'  | 0         | https://en.wikipedia.org/wiki/Category:Set_theoretic_programming_languages 
+37   | 'r'  | 109       | https://en.wikipedia.org/wiki/SLIP_(programming_language) 
+38   | 'a'  | 2938      | https://en.wikipedia.org/wiki/C_Sharp_(programming_language) 
+39   | 'r'  | 70        | https://en.wikipedia.org/wiki/DARSIMCO 
+40   | 'y'  | 1279      | https://en.wikipedia.org/wiki/Python_(programming_language) 
+
+------
+
+ID   | Char | CharCount | URL
+0    | 'u'  | 1433      | https://en.wikipedia.org/wiki/Python_(programming_language) 
+1    | 'n'  | 2743      | https://en.wikipedia.org/wiki/Java_(programming_language) 
+2    | 'd'  | 229       | https://en.wikipedia.org/wiki/TI-BASIC_83 
+3    | 'e'  | 68        | https://en.wikipedia.org/wiki/Category:Prototype-based_programming_languages 
+4    | 'r'  | 70        | https://en.wikipedia.org/wiki/COWSEL 
+5    | ' '  | 146       | https://en.wikipedia.org/wiki/General-purpose_programming_language 
+6    | '2'  | 88        | https://en.wikipedia.org/wiki/Zig_(programming_language) 
+7    | '0'  | 0         | https://en.wikipedia.org/wiki/Category:Term-rewriting_programming_languages 
+8    | '0'  | 2         | https://en.wikipedia.org/wiki/Category:Experimental_programming_languages 
+9    | ' '  | 448       | https://en.wikipedia.org/wiki/Kojo_(learning_environment) 
+10   | 'l'  | 210       | https://en.wikipedia.org/wiki/Io_(programming_language) 
+11   | 'i'  | 1044      | https://en.wikipedia.org/wiki/Haxe 
+12   | 'n'  | 1013      | https://en.wikipedia.org/wiki/SNOBOL 
+13   | 'e'  | 137       | https://en.wikipedia.org/wiki/Category:Dynamically_typed_programming_languages 
+14   | 's'  | 1936      | https://en.wikipedia.org/wiki/Julia_(programming_language) 
+
+------
+
+ID   | Char | CharCount | URL
+0    | 'u'  | 8         | https://en.wikipedia.org/wiki/Category:Nondeterministic_programming_languages 
+1    | 'n'  | 138       | https://en.wikipedia.org/wiki/Programming_Languages:_Application_and_Interpretation 
+2    | 'd'  | 736       | https://en.wikipedia.org/wiki/Clojure 
+3    | 'e'  | 37        | https://en.wikipedia.org/wiki/Category:Formula_manipulation_languages 
+4    | 'r'  | 183       | https://en.wikipedia.org/wiki/Cameleon_(programming_language) 
+5    | 's'  | 125       | https://en.wikipedia.org/wiki/Clascal 
+6    | 't'  | 121       | https://en.wikipedia.org/wiki/%D0%AD%D0%BB%D1%8C-76 
+7    | 'a'  | 1685      | https://en.wikipedia.org/wiki/Clojure 
+8    | 'n'  | 26        | https://en.wikipedia.org/wiki/Milk_(programming_language) 
+9    | 'd'  | 115       | https://en.wikipedia.org/wiki/Flowcode 
+10   | 'a'  | 4385      | https://en.wikipedia.org/wiki/APL_(programming_language) 
+11   | 'b'  | 49        | https://en.wikipedia.org/wiki/Universal_Test_Specification_Language 
+12   | 'l'  | 17        | https://en.wikipedia.org/wiki/Category:High_Integrity_Programming_Language 
+13   | 'e'  | 192       | https://en.wikipedia.org/wiki/Category:Domain-specific_programming_languages 
+14   | '/'  | 24        | https://en.wikipedia.org/wiki/Quantum_Computation_Language 
+15   | 'e'  | 117       | https://en.wikipedia.org/wiki/Boomerang_(programming_language) 
+16   | 'a'  | 177       | https://en.wikipedia.org/wiki/Flowcode 
+17   | 's'  | 108       | https://en.wikipedia.org/wiki/Behavioral_Description_Language 
+18   | 'y'  | 17        | https://en.wikipedia.org/wiki/Embedded_style_language 
+19   | ' '  | 120       | https://en.wikipedia.org/wiki/Category:Academic_programming_languages 
+20   | 't'  | 44        | https://en.wikipedia.org/wiki/Category:Data-structured_programming_languages 
+21   | 'o'  | 121       | https://en.wikipedia.org/wiki/Hermes_(programming_language) 
+22   | ' '  | 271       | https://en.wikipedia.org/wiki/Category:Domain-specific_programming_languages 
+23   | 'p'  | 305       | https://en.wikipedia.org/wiki/Simula 
+24   | 'a'  | 30        | https://en.wikipedia.org/wiki/Category:Nondeterministic_programming_languages 
+25   | 'r'  | 92        | https://en.wikipedia.org/wiki/GLOBAL 
+26   | 's'  | 868       | https://en.wikipedia.org/wiki/SNOBOL 
+27   | 'e'  | 128       | https://en.wikipedia.org/wiki/Scientific_Vector_Language 
+28   | ' '  | 45        | https://en.wikipedia.org/wiki/Category:Set_theoretic_programming_languages 
+29   | 'b'  | 1         | https://en.wikipedia.org/wiki/Category:Synchronous_programming_languages 
+30   | 'y'  | 26        | https://en.wikipedia.org/wiki/Hermes_(programming_language) 
+31   | ' '  | 131       | https://en.wikipedia.org/wiki/Category:Text-oriented_programming_languages 
+32   | 'h'  | 21        | https://en.wikipedia.org/wiki/Category:Non-English-based_programming_languages 
+33   | 'u'  | 12        | https://en.wikipedia.org/wiki/Category:Discontinued_programming_languages 
+34   | 'm'  | 215       | https://en.wikipedia.org/wiki/C%2B%2B17 
+35   | 'a'  | 106       | https://en.wikipedia.org/wiki/Behavioral_Description_Language 
+36   | 'n'  | 221       | https://en.wikipedia.org/wiki/Cameleon_(programming_language) 
+37   | 's'  | 32        | https://en.wikipedia.org/wiki/KOMPILER 
+
+------
+
+ID   | Char | CharCount | URL
+0    | 'r'  | 112       | https://en.wikipedia.org/wiki/Darwin_(programming_language) 
+1    | 'u'  | 7         | https://en.wikipedia.org/wiki/Category:Tree_programming_languages 
+2    | 'n'  | 149       | https://en.wikipedia.org/wiki/Category:Domain-specific_programming_languages 
+3    | ' '  | 120       | https://en.wikipedia.org/wiki/Category:Multi-paradigm_programming_languages 
+4    | 's'  | 32        | https://en.wikipedia.org/wiki/Category:Shading_languages 
+5    | 'u'  | 45        | https://en.wikipedia.org/wiki/Category:Academic_programming_languages 
+6    | 'c'  | 32        | https://en.wikipedia.org/wiki/Category:Object-based_programming_languages 
+7    | 'c'  | 8         | https://en.wikipedia.org/wiki/Category:Agent-oriented_programming_languages 
+8    | 'e'  | 244       | https://en.wikipedia.org/wiki/OpenQASM 
+9    | 's'  | 99        | https://en.wikipedia.org/wiki/Category:Procedural_programming_languages 
+10   | 's'  | 253       | https://en.wikipedia.org/wiki/Digital_Asset_Modeling_Language 
+11   | 'f'  | 15        | https://en.wikipedia.org/wiki/Category:Dependently_typed_languages 
+12   | 'u'  | 52        | https://en.wikipedia.org/wiki/General-purpose_programming_language 
+13   | 'l'  | 1219      | https://en.wikipedia.org/wiki/Clojure 
+14   | 'l'  | 30        | https://en.wikipedia.org/wiki/Category:Esoteric_programming_languages 
+15   | 'y'  | 25        | https://en.wikipedia.org/wiki/GLOBAL 
+
+------
+
+ID   | Char | CharCount | URL
+0    | 'P'  | 93        | https://en.wikipedia.org/wiki/Jolie_(programming_language) 
+1    | 'y'  | 5         | https://en.wikipedia.org/wiki/Category:Set_theoretic_programming_languages 
+2    | 't'  | 33        | https://en.wikipedia.org/wiki/Category:Formula_manipulation_languages 
+3    | 'h'  | 474       | https://en.wikipedia.org/wiki/Nim_(programming_language) 
+4    | 'o'  | 149       | https://en.wikipedia.org/wiki/MiniKanren 
+5    | 'n'  | 34        | https://en.wikipedia.org/wiki/Category:Object-based_programming_languages 
+6    | ' '  | 781       | https://en.wikipedia.org/wiki/Deductive_language 
+7    | '3'  | 2         | https://en.wikipedia.org/wiki/Category:Esoteric_programming_languages 
+
+------
+
+ID   | Char | CharCount | URL
+0    | 'A'  | 633       | https://en.wikipedia.org/wiki/Kinetic_Rule_Language 
+1    | 'b'  | 0         | https://en.wikipedia.org/wiki/Category:Process_termination_functions 
+2    | 'i'  | 133       | https://en.wikipedia.org/wiki/Real-time_Programming_Language 
+3    | 'd'  | 1271      | https://en.wikipedia.org/wiki/BASIC 
+4    | 'e'  | 45        | https://en.wikipedia.org/wiki/Category:XML-based_programming_languages 
+5    | ' '  | 208       | https://en.wikipedia.org/wiki/Behavioral_Description_Language 
+6    | 'b'  | 106       | https://en.wikipedia.org/wiki/K_(programming_language) 
+7    | 'y'  | 13        | https://en.wikipedia.org/wiki/Category:High-level_programming_languages 
+8    | ' '  | 6673      | https://en.wikipedia.org/wiki/AppleScript 
+9    | 't'  | 24        | https://en.wikipedia.org/wiki/Category:Reactive_programming_languages 
+10   | 'h'  | 12        | https://en.wikipedia.org/wiki/Category:Programming_languages_conferences 
+11   | 'e'  | 530       | https://en.wikipedia.org/wiki/Gosling_Emacs#Extension_language 
+12   | ' '  | 54        | https://en.wikipedia.org/wiki/Category:Discontinued_programming_languages 
+13   | 'C'  | 57        | https://en.wikipedia.org/wiki/Behavioral_Description_Language 
+14   | 'o'  | 20        | https://en.wikipedia.org/wiki/Category:Reactive_programming_languages 
+15   | 'd'  | 766       | https://en.wikipedia.org/wiki/Kotlin_(programming_language) 
+16   | 'e'  | 423       | https://en.wikipedia.org/wiki/Digital_Asset_Modeling_Language 
+17   | ' '  | 125       | https://en.wikipedia.org/wiki/KOMPILER 
+18   | 'o'  | 451       | https://en.wikipedia.org/wiki/B_(programming_language) 
+19   | 'f'  | 53        | https://en.wikipedia.org/wiki/Flowcode 
+20   | ' '  | 5508      | https://en.wikipedia.org/wiki/Julia_(programming_language) 
+21   | 'C'  | 91        | https://en.wikipedia.org/wiki/DIBOL 
+22   | 'o'  | 2967      | https://en.wikipedia.org/wiki/Java_(programming_language) 
+23   | 'n'  | 364       | https://en.wikipedia.org/wiki/TI-BASIC_83 
+24   | 'd'  | 18        | https://en.wikipedia.org/wiki/Category:Multi-paradigm_programming_languages 
+25   | 'u'  | 61        | https://en.wikipedia.org/wiki/Real-time_Programming_Language 
+26   | 'c'  | 20        | https://en.wikipedia.org/wiki/Category:Concatenative_programming_languages 
+27   | 't'  | 914       | https://en.wikipedia.org/wiki/Kinetic_Rule_Language 
+
+------
+
+runtime: 0:05:45.248997
