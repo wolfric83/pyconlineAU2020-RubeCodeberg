@@ -1,10 +1,18 @@
+#
+#   Rube Codeberg submission for Craig Quirke at Pyconline AU 2020
+#
+#   scrapes rulesurl for bold list of rules, finds a random page on wikipedia with the category "Programming languages" 
+#    and outputs the number of times the given letter appears (case insensitive)
+#
 import requests
 from bs4 import BeautifulSoup
 from html import unescape
-string = "Hello World"
-url = "https://en.wikipedia.org/wiki/Special:RandomInCategory"
-category = unescape("wpcategory=Programming+languages&wpEditToken=%2B%5C&title=Special%3ARandomInCategory&redirectparams=")
+
 rulesurl = 'https://2020.pycon.org.au/program/sun/'
+url = "https://en.wikipedia.org/wiki/Special:RandomInCategory"
+categoryname = "Programming+languages"
+categorydata = unescape("wpcategory={}&wpEditToken=%2B%5C&title=Special%3ARandomInCategory&redirectparams=".format(categoryname))
+
 sessionindex = 0
 soupindex = 1
 urlindex = 2
@@ -39,7 +47,7 @@ def outputchars(string):
     print("ID   | Char | CharCount | URL")
     for index, character in enumerate(stringlist):    
         print ("{:<3}  | '{}'  |".format(index, character),  end = ' ')
-        result = url_post(url, category)
+        result = url_post(url, categorydata)
         charcount = get_charcount(result[soupindex] ,character)
         print("{:<9} | {} ".format(charcount, unescape(result[urlindex])))
 
