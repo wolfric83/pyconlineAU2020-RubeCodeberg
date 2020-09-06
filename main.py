@@ -18,7 +18,7 @@ from html import unescape
 rulesurl = 'https://2020.pycon.org.au/program/sun/'
 url = "https://en.wikipedia.org/wiki/Special:RandomInCategory"
 categoryname = "Programming+languages"
-categorydata = unescape("wpcategory={}&wpEditToken=%2B%5C&title=Special%3ARandomInCategory&redirectparams=".format(categoryname))
+categorydata = unescape("wpcategory={}".format(categoryname))
 
 sessionindex = 0
 soupindex = 1
