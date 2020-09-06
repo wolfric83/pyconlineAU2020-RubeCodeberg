@@ -1,10 +1,10 @@
 #
-#   Rube Codeberg submission for Craig Quirke at Pyconline AU 2020
+#   Rube Codeberg submission for Craig Quirke at PyConline AU 2020
 #
-#   scrapes rulesurl for bold list of rules (between "Your Program must" and "To enter:", finds a random page on wikipedia with the category "Programming languages" 
+#   scrapes rulesurl for the bolded list of rules (between "Your Program must" and "To enter:"), finds a random page on wikipedia with the category "Programming languages" 
 #    and outputs the number of times the given letter appears (case insensitive)
 #
-#   This program will make a large number of synchronous web requests, runtime dependant on bandwith and wikipedia response times.
+#   This program will make a large number of synchronous web requests, runtime dependant on bandwidth and wikipedia response times.
 #   sample output included in sample.txt
 #
 
