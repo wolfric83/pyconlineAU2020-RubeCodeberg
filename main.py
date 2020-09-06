@@ -5,6 +5,9 @@ string = "Hello World"
 url = "https://en.wikipedia.org/wiki/Special:RandomInCategory"
 category = unescape("wpcategory=Programming+languages&wpEditToken=%2B%5C&title=Special%3ARandomInCategory&redirectparams=")
 rulesurl = 'https://2020.pycon.org.au/program/sun/'
+sessionindex = 0
+soupindex = 1
+urlindex = 2
 characterinfo = [] 
 
 def url_post(url, rawPOSTdata="") -> list:
@@ -17,8 +20,16 @@ def url_post(url, rawPOSTdata="") -> list:
         url = soup.find('link', {'rel': 'canonical'}).get('href')
     return [session, soup, url]
 
+def url_get(url) -> list:
+    # Returns requests session object, page contents as bs4 object, and link to page (if found on wikipedia)
+    headers    = {'User-Agent': 'Mozilla/5.0'} #, 'Content-Type': 'application/x-www-form-urlencoded'}
+    print(url)
+    session    = requests.Session()
+    resp       = session.get(url,headers=headers)
+    soup        = BeautifulSoup(resp.content, 'html.parser')
+    return [session, soup, url]
+
 def get_charcount(bs4page, character):
-    id='abc1'
     contentdivtext = bs4page.find(id="mw-content-text")
     charcount = contentdivtext.get_text().lower().count(character.lower())
     return charcount
@@ -29,12 +40,12 @@ def outputchars(string):
     for index, character in enumerate(stringlist):    
         print ("{:<3}  | '{}'  |".format(index, character),  end = ' ')
         result = url_post(url, category)
-        charcount = get_charcount(result[1] ,character)
-        print("{:<9} | {} ".format(charcount, unescape(result[2])))
+        charcount = get_charcount(result[soupindex] ,character)
+        print("{:<9} | {} ".format(charcount, unescape(result[urlindex])))
 
-rulespage = url_post(rulesurl)[1]
+rulespage = url_get(rulesurl)[soupindex]
 maindiv = rulespage.find('main')
-allbold = main.find_all('strong')
+allbold = maindiv.find_all('strong')
 rules = []
 for bold in allbold:
     rules.append(bold.get_text())
