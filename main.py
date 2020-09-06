@@ -29,7 +29,7 @@ def url_get(url) -> list:
     soup        = BeautifulSoup(resp.content, 'html.parser')
     return [session, soup, url]
 
-def get_charcount(bs4page, character):
+def get_charcount(bs4page, character) -> int:
     contentdivtext = bs4page.find(id="mw-content-text")
     charcount = contentdivtext.get_text().lower().count(character.lower())
     return charcount
